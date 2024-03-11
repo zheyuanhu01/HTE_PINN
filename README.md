@@ -33,7 +33,7 @@ If you think the code is useful, kindly cite our paper.
 }
 ```
 
-You may also consider citing our other papers on high-dimensional and high-order PINN and PDE:
+You may also consider citing our other papers on high-dimensional and high-order PINN and PDE, whose codes will also be publicly available once they are accepted.
 
 ```bibtex
 @article{hu2023tackling,

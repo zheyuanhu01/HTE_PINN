@@ -1,5 +1,9 @@
 # HTE_PINN
-Here is the official JAX implementation of the paper **Hutchinson Trace Estimation for High-Dimensional and High-Order Physics-Informed Neural Networks**, by **Zheyuan Hu, Zekun Shi, George Em Karniadakis, Kenji Kawaguchi**, which has been accepted by **Computer Methods in Applied Mechanics and Engineering**.
+Here is the official JAX implementation of the paper **Hutchinson Trace Estimation for High-Dimensional and High-Order Physics-Informed Neural Networks**.
+
+The paper is coauthored by **Zheyuan Hu, Zekun Shi, George Em Karniadakis, Kenji Kawaguchi**.
+
+It has been accepted by **Computer Methods in Applied Mechanics and Engineering**.
 
 arXiv version: https://arxiv.org/abs/2312.14499
 

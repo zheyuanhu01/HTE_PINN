@@ -9,7 +9,7 @@ Journal version (Open Access): https://www.sciencedirect.com/science/article/pii
 
 Gordon1.py: Code for the high-dimensional second-order Sine-Gordon equation with a two-body solution, which includes both PINN and gradient-enhanced PINN (gPINN).
 
-Gordon1.py: Code for the high-dimensional second-order Sine-Gordon equation with a three-body solution, which includes both PINN and gradient-enhanced PINN (gPINN).
+Gordon2.py: Code for the high-dimensional second-order Sine-Gordon equation with a three-body solution, which includes both PINN and gradient-enhanced PINN (gPINN).
 
 Biharmonic.py: Code for the high-dimensional fourth-order biharmonic equation.
 

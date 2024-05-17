@@ -36,13 +36,17 @@ If you think the code is useful, kindly cite our paper.
 You may also consider citing our other papers on high-dimensional and high-order PINN and PDE, whose codes will also be publicly available once they are accepted.
 
 ```bibtex
-@article{hu2023tackling,
+@article{hu2024tackling,
   title={Tackling the curse of dimensionality with physics-informed neural networks},
   author={Hu, Zheyuan and Shukla, Khemraj and Karniadakis, George Em and Kawaguchi, Kenji},
-  journal={arXiv preprint arXiv:2307.12306},
-  year={2023}
+  journal={Neural Networks},
+  pages={106369},
+  year={2024},
+  publisher={Elsevier}
 }
 ```
+
+Code is available at https://github.com/zheyuanhu01/SDGD_PINN.
 
 ```bibtex
 @article{hu2023bias,
